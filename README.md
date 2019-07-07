@@ -1,6 +1,14 @@
 # Kaya Signal Processing:
 
-### Args - Takes in 2 arguments.
+### Dependencies - 
+
+1. Numpy.
+2. Matplotlib.
+3. Scipi
+
+### Args - 
+
+Takes in 2 arguments
 
 1. Path to csv file for the specfic exercise.
 2. Path to folder in which to ssave all the plots

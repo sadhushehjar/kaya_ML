@@ -4,7 +4,7 @@
 
 1. Numpy.
 2. Matplotlib.
-3. Scipi
+3. Scipy
 
 ### Args - 
 

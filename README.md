@@ -2,8 +2,7 @@
 
 ### How to run
 
-1.  ```
- python3 data_processing.py /Users/shehjarsadhu/Desktop/KAYA_DataTest/1_7_19_adi/flex+imu/11_45_53_063_RIGHT_GLOVE_Finger_Tap.csv /Users/shehjarsadhu/Desktop/KAYA_DataTest/1_7_19_adi/flex+imu/plots/FingerTap ```
+ 1.   ``` python3 data_processing.py /Users/shehjarsadhu/Desktop/KAYA_DataTest/1_7_19_adi/flex+imu/11_45_53_063_RIGHT_GLOVE_Finger_Tap.csv /Users/shehjarsadhu/Desktop/KAYA_DataTest/1_7_19_adi/flex+imu/plots/FingerTap ```
 
  2. ``` python3 data_processing.py /Users/shehjarsadhu/Desktop/KAYA_DataTest/1_7_19_adi/flex+imu/11_45_53_063_RIGHT_GLOVE_Finger_Tap.csv /Users/shehjarsadhu/Desktop/KAYA_DataTest/1_7_19_adi/flex+imu/plots/FingerTap ```
 

@@ -1,4 +1,4 @@
-# Kaya Signal Processing:
+# Kaya Signal Processing 
 
 ### Dependencies - 
 

@@ -1,0 +1,1454 @@
+mean cross-validation accuracy: 
+0.7763157894736842
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 5, 'p': 1}
+mean cross-validation accuracy: 
+0.8026315789473685
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 5, 'p': 2}
+mean cross-validation accuracy: 
+0.618421052631579
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 6, 'p': 1}
+mean cross-validation accuracy: 
+0.6447368421052632
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 6, 'p': 2}
+mean cross-validation accuracy: 
+0.7105263157894737
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 7, 'p': 1}
+mean cross-validation accuracy: 
+0.6447368421052632
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 7, 'p': 2}
+mean cross-validation accuracy: 
+0.6578947368421053
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 8, 'p': 1}
+mean cross-validation accuracy: 
+0.631578947368421
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 8, 'p': 2}
+mean cross-validation accuracy: 
+0.6578947368421053
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 9, 'p': 1}
+mean cross-validation accuracy: 
+0.631578947368421
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 9, 'p': 2}
+mean cross-validation accuracy: 
+0.6578947368421053
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 10, 'p': 1}
+mean cross-validation accuracy: 
+0.6842105263157895
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 10, 'p': 2}
+mean cross-validation accuracy: 
+0.6447368421052632
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 11, 'p': 1}
+mean cross-validation accuracy: 
+0.7894736842105263
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 11, 'p': 2}
+mean cross-validation accuracy: 
+0.6842105263157895
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 12, 'p': 1}
+mean cross-validation accuracy: 
+0.7894736842105263
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 12, 'p': 2}
+mean cross-validation accuracy: 
+0.6842105263157895
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 13, 'p': 1}
+mean cross-validation accuracy: 
+0.7894736842105263
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 13, 'p': 2}
+mean cross-validation accuracy: 
+0.6842105263157895
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 14, 'p': 1}
+mean cross-validation accuracy: 
+0.7631578947368421
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 14, 'p': 2}
+
+Best Score: 
+0.8026315789473685
+Best parameters set found on development set:
+ {'algorithm': 'kd_tree', 'n_neighbors': 5, 'p': 2}
+ Confusion Matrix 
+[[3 0 0 0 0 0]
+ [0 6 0 0 0 0]
+ [0 0 2 0 0 0]
+ [0 0 0 2 0 0]
+ [0 0 0 0 3 0]
+ [0 0 0 0 0 4]]
+ Classification report 
+                        precision    recall  f1-score   support
+
+           Closed Grip       1.00      1.00      1.00         3
+            Finger Tap       1.00      1.00      1.00         6
+        Finger to Nose       1.00      1.00      1.00         2
+             Hand Flip       1.00      1.00      1.00         2
+        Hands Hold Out       1.00      1.00      1.00         3
+Resting Hands On Thigh       1.00      1.00      1.00         4
+
+             micro avg       1.00      1.00      1.00        20
+             macro avg       1.00      1.00      1.00        20
+          weighted avg       1.00      1.00      1.00        20
+mean cross-validation accuracy: 
+0.6710526315789473
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 5, 'p': 1}
+mean cross-validation accuracy: 
+0.7105263157894737
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 5, 'p': 2}
+mean cross-validation accuracy: 
+0.5394736842105263
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 6, 'p': 1}
+mean cross-validation accuracy: 
+0.6447368421052632
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 6, 'p': 2}
+mean cross-validation accuracy: 
+0.5
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 7, 'p': 1}
+mean cross-validation accuracy: 
+0.5921052631578947
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 7, 'p': 2}
+mean cross-validation accuracy: 
+0.5526315789473685
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 8, 'p': 1}
+mean cross-validation accuracy: 
+0.6052631578947368
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 8, 'p': 2}
+mean cross-validation accuracy: 
+0.5263157894736842
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 9, 'p': 1}
+mean cross-validation accuracy: 
+0.6052631578947368
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 9, 'p': 2}
+mean cross-validation accuracy: 
+0.5263157894736842
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 10, 'p': 1}
+mean cross-validation accuracy: 
+0.6052631578947368
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 10, 'p': 2}
+mean cross-validation accuracy: 
+0.631578947368421
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 11, 'p': 1}
+mean cross-validation accuracy: 
+0.6710526315789473
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 11, 'p': 2}
+mean cross-validation accuracy: 
+0.631578947368421
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 12, 'p': 1}
+mean cross-validation accuracy: 
+0.6710526315789473
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 12, 'p': 2}
+mean cross-validation accuracy: 
+0.618421052631579
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 13, 'p': 1}
+mean cross-validation accuracy: 
+0.6052631578947368
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 13, 'p': 2}
+mean cross-validation accuracy: 
+0.631578947368421
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 14, 'p': 1}
+mean cross-validation accuracy: 
+0.5921052631578947
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 14, 'p': 2}
+
+Best Score: 
+0.7105263157894737
+Best parameters set found on development set:
+ {'algorithm': 'kd_tree', 'n_neighbors': 5, 'p': 2}
+ Confusion Matrix 
+[[2 0 0 0 0 0]
+ [0 3 0 0 0 0]
+ [0 0 4 0 0 0]
+ [0 0 0 4 0 0]
+ [0 0 0 0 4 0]
+ [0 0 0 0 0 3]]
+ Classification report 
+                        precision    recall  f1-score   support
+
+           Closed Grip       1.00      1.00      1.00         2
+            Finger Tap       1.00      1.00      1.00         3
+        Finger to Nose       1.00      1.00      1.00         4
+             Hand Flip       1.00      1.00      1.00         4
+        Hands Hold Out       1.00      1.00      1.00         4
+Resting Hands On Thigh       1.00      1.00      1.00         3
+
+             micro avg       1.00      1.00      1.00        20
+             macro avg       1.00      1.00      1.00        20
+          weighted avg       1.00      1.00      1.00        20
+mean cross-validation accuracy: 
+0.881578947368421
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 5, 'p': 1}
+mean cross-validation accuracy: 
+0.868421052631579
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 5, 'p': 2}
+mean cross-validation accuracy: 
+0.8552631578947368
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 6, 'p': 1}
+mean cross-validation accuracy: 
+0.868421052631579
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 6, 'p': 2}
+mean cross-validation accuracy: 
+0.8552631578947368
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 7, 'p': 1}
+mean cross-validation accuracy: 
+0.9078947368421053
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 7, 'p': 2}
+mean cross-validation accuracy: 
+0.7368421052631579
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 8, 'p': 1}
+mean cross-validation accuracy: 
+0.7894736842105263
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 8, 'p': 2}
+mean cross-validation accuracy: 
+0.8026315789473685
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 9, 'p': 1}
+mean cross-validation accuracy: 
+0.8552631578947368
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 9, 'p': 2}
+mean cross-validation accuracy: 
+0.7105263157894737
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 10, 'p': 1}
+mean cross-validation accuracy: 
+0.8026315789473685
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 10, 'p': 2}
+mean cross-validation accuracy: 
+0.7631578947368421
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 11, 'p': 1}
+mean cross-validation accuracy: 
+0.8552631578947368
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 11, 'p': 2}
+mean cross-validation accuracy: 
+0.7368421052631579
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 12, 'p': 1}
+mean cross-validation accuracy: 
+0.8552631578947368
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 12, 'p': 2}
+mean cross-validation accuracy: 
+0.7236842105263158
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 13, 'p': 1}
+mean cross-validation accuracy: 
+0.8552631578947368
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 13, 'p': 2}
+mean cross-validation accuracy: 
+0.6842105263157895
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 14, 'p': 1}
+mean cross-validation accuracy: 
+0.8289473684210527
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 14, 'p': 2}
+
+Best Score: 
+0.9078947368421053
+Best parameters set found on development set:
+ {'algorithm': 'kd_tree', 'n_neighbors': 7, 'p': 2}
+ Confusion Matrix 
+[[4 0 0 0 0 0]
+ [0 3 0 0 0 0]
+ [0 0 2 0 0 0]
+ [0 0 0 2 0 0]
+ [0 0 0 0 4 0]
+ [0 0 0 0 0 5]]
+ Classification report 
+                        precision    recall  f1-score   support
+
+           Closed Grip       1.00      1.00      1.00         4
+            Finger Tap       1.00      1.00      1.00         3
+        Finger to Nose       1.00      1.00      1.00         2
+             Hand Flip       1.00      1.00      1.00         2
+        Hands Hold Out       1.00      1.00      1.00         4
+Resting Hands On Thigh       1.00      1.00      1.00         5
+
+             micro avg       1.00      1.00      1.00        20
+             macro avg       1.00      1.00      1.00        20
+          weighted avg       1.00      1.00      1.00        20
+mean cross-validation accuracy: 
+0.5921052631578947
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 5, 'p': 1}
+mean cross-validation accuracy: 
+0.75
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 5, 'p': 2}
+mean cross-validation accuracy: 
+0.631578947368421
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 6, 'p': 1}
+mean cross-validation accuracy: 
+0.7368421052631579
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 6, 'p': 2}
+mean cross-validation accuracy: 
+0.6710526315789473
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 7, 'p': 1}
+mean cross-validation accuracy: 
+0.7368421052631579
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 7, 'p': 2}
+mean cross-validation accuracy: 
+0.631578947368421
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 8, 'p': 1}
+mean cross-validation accuracy: 
+0.7105263157894737
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 8, 'p': 2}
+mean cross-validation accuracy: 
+0.75
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 9, 'p': 1}
+mean cross-validation accuracy: 
+0.7105263157894737
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 9, 'p': 2}
+mean cross-validation accuracy: 
+0.75
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 10, 'p': 1}
+mean cross-validation accuracy: 
+0.75
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 10, 'p': 2}
+mean cross-validation accuracy: 
+0.5921052631578947
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 11, 'p': 1}
+mean cross-validation accuracy: 
+0.7105263157894737
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 11, 'p': 2}
+mean cross-validation accuracy: 
+0.5921052631578947
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 12, 'p': 1}
+mean cross-validation accuracy: 
+0.7105263157894737
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 12, 'p': 2}
+mean cross-validation accuracy: 
+0.5921052631578947
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 13, 'p': 1}
+mean cross-validation accuracy: 
+0.7105263157894737
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 13, 'p': 2}
+mean cross-validation accuracy: 
+0.5394736842105263
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 14, 'p': 1}
+mean cross-validation accuracy: 
+0.7105263157894737
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 14, 'p': 2}
+
+Best Score: 
+0.75
+Best parameters set found on development set:
+ {'algorithm': 'kd_tree', 'n_neighbors': 5, 'p': 2}
+ Confusion Matrix 
+[[4 0 0 0 0 0]
+ [0 2 0 0 0 0]
+ [0 0 1 0 0 0]
+ [0 0 0 6 0 0]
+ [0 0 0 0 4 0]
+ [0 0 0 0 0 3]]
+ Classification report 
+                        precision    recall  f1-score   support
+
+           Closed Grip       1.00      1.00      1.00         4
+            Finger Tap       1.00      1.00      1.00         2
+        Finger to Nose       1.00      1.00      1.00         1
+             Hand Flip       1.00      1.00      1.00         6
+        Hands Hold Out       1.00      1.00      1.00         4
+Resting Hands On Thigh       1.00      1.00      1.00         3
+
+             micro avg       1.00      1.00      1.00        20
+             macro avg       1.00      1.00      1.00        20
+          weighted avg       1.00      1.00      1.00        20
+mean cross-validation accuracy: 
+0.8421052631578947
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 5, 'p': 1}
+mean cross-validation accuracy: 
+0.8552631578947368
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 5, 'p': 2}
+mean cross-validation accuracy: 
+0.7763157894736842
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 6, 'p': 1}
+mean cross-validation accuracy: 
+0.7894736842105263
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 6, 'p': 2}
+mean cross-validation accuracy: 
+0.7894736842105263
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 7, 'p': 1}
+mean cross-validation accuracy: 
+0.8026315789473685
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 7, 'p': 2}
+mean cross-validation accuracy: 
+0.7236842105263158
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 8, 'p': 1}
+mean cross-validation accuracy: 
+0.7763157894736842
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 8, 'p': 2}
+mean cross-validation accuracy: 
+0.7236842105263158
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 9, 'p': 1}
+mean cross-validation accuracy: 
+0.75
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 9, 'p': 2}
+mean cross-validation accuracy: 
+0.7236842105263158
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 10, 'p': 1}
+mean cross-validation accuracy: 
+0.75
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 10, 'p': 2}
+mean cross-validation accuracy: 
+0.7236842105263158
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 11, 'p': 1}
+mean cross-validation accuracy: 
+0.75
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 11, 'p': 2}
+mean cross-validation accuracy: 
+0.6842105263157895
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 12, 'p': 1}
+mean cross-validation accuracy: 
+0.7894736842105263
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 12, 'p': 2}
+mean cross-validation accuracy: 
+0.6447368421052632
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 13, 'p': 1}
+mean cross-validation accuracy: 
+0.75
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 13, 'p': 2}
+mean cross-validation accuracy: 
+0.5921052631578947
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 14, 'p': 1}
+mean cross-validation accuracy: 
+0.75
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 14, 'p': 2}
+
+Best Score: 
+0.8552631578947368
+Best parameters set found on development set:
+ {'algorithm': 'kd_tree', 'n_neighbors': 5, 'p': 2}
+ Confusion Matrix 
+[[2 0 0 0 0 0]
+ [0 5 0 0 0 0]
+ [0 0 4 0 0 0]
+ [0 0 0 2 0 0]
+ [0 0 0 0 4 0]
+ [0 0 0 0 0 3]]
+ Classification report 
+                        precision    recall  f1-score   support
+
+           Closed Grip       1.00      1.00      1.00         2
+            Finger Tap       1.00      1.00      1.00         5
+        Finger to Nose       1.00      1.00      1.00         4
+             Hand Flip       1.00      1.00      1.00         2
+        Hands Hold Out       1.00      1.00      1.00         4
+Resting Hands On Thigh       1.00      1.00      1.00         3
+
+             micro avg       1.00      1.00      1.00        20
+             macro avg       1.00      1.00      1.00        20
+          weighted avg       1.00      1.00      1.00        20
+mean cross-validation accuracy: 
+0.631578947368421
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 5, 'p': 1}
+mean cross-validation accuracy: 
+0.6842105263157895
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 5, 'p': 2}
+mean cross-validation accuracy: 
+0.631578947368421
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 6, 'p': 1}
+mean cross-validation accuracy: 
+0.6842105263157895
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 6, 'p': 2}
+mean cross-validation accuracy: 
+0.631578947368421
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 7, 'p': 1}
+mean cross-validation accuracy: 
+0.6842105263157895
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 7, 'p': 2}
+mean cross-validation accuracy: 
+0.5263157894736842
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 8, 'p': 1}
+mean cross-validation accuracy: 
+0.618421052631579
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 8, 'p': 2}
+mean cross-validation accuracy: 
+0.5394736842105263
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 9, 'p': 1}
+mean cross-validation accuracy: 
+0.618421052631579
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 9, 'p': 2}
+mean cross-validation accuracy: 
+0.5394736842105263
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 10, 'p': 1}
+mean cross-validation accuracy: 
+0.5526315789473685
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 10, 'p': 2}
+mean cross-validation accuracy: 
+0.5394736842105263
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 11, 'p': 1}
+mean cross-validation accuracy: 
+0.6447368421052632
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 11, 'p': 2}
+mean cross-validation accuracy: 
+0.5131578947368421
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 12, 'p': 1}
+mean cross-validation accuracy: 
+0.6447368421052632
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 12, 'p': 2}
+mean cross-validation accuracy: 
+0.47368421052631576
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 13, 'p': 1}
+mean cross-validation accuracy: 
+0.6842105263157895
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 13, 'p': 2}
+mean cross-validation accuracy: 
+0.4605263157894737
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 14, 'p': 1}
+mean cross-validation accuracy: 
+0.6842105263157895
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 14, 'p': 2}
+
+Best Score: 
+0.6842105263157895
+Best parameters set found on development set:
+ {'algorithm': 'kd_tree', 'n_neighbors': 5, 'p': 2}
+ Confusion Matrix 
+[[6 0 0 0 0 0]
+ [0 3 0 0 0 0]
+ [0 0 2 0 0 0]
+ [0 0 0 4 0 0]
+ [0 0 0 0 2 0]
+ [0 0 0 0 0 3]]
+ Classification report 
+                        precision    recall  f1-score   support
+
+           Closed Grip       1.00      1.00      1.00         6
+            Finger Tap       1.00      1.00      1.00         3
+        Finger to Nose       1.00      1.00      1.00         2
+             Hand Flip       1.00      1.00      1.00         4
+        Hands Hold Out       1.00      1.00      1.00         2
+Resting Hands On Thigh       1.00      1.00      1.00         3
+
+             micro avg       1.00      1.00      1.00        20
+             macro avg       1.00      1.00      1.00        20
+          weighted avg       1.00      1.00      1.00        20
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 5, 'p': 1}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 5, 'p': 2}
+mean cross-validation accuracy: 
+0.75
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 6, 'p': 1}
+mean cross-validation accuracy: 
+0.75
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 6, 'p': 2}
+mean cross-validation accuracy: 
+0.75
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 7, 'p': 1}
+mean cross-validation accuracy: 
+0.75
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 7, 'p': 2}
+mean cross-validation accuracy: 
+0.5625
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 8, 'p': 1}
+mean cross-validation accuracy: 
+0.5625
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 8, 'p': 2}
+mean cross-validation accuracy: 
+0.5625
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 9, 'p': 1}
+mean cross-validation accuracy: 
+0.5625
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 9, 'p': 2}
+mean cross-validation accuracy: 
+0.4791666666666667
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 10, 'p': 1}
+mean cross-validation accuracy: 
+0.4791666666666667
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 10, 'p': 2}
+mean cross-validation accuracy: 
+0.4791666666666667
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 11, 'p': 1}
+mean cross-validation accuracy: 
+0.4791666666666667
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 11, 'p': 2}
+mean cross-validation accuracy: 
+0.4791666666666667
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 12, 'p': 1}
+mean cross-validation accuracy: 
+0.4791666666666667
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 12, 'p': 2}
+mean cross-validation accuracy: 
+0.4166666666666667
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 13, 'p': 1}
+mean cross-validation accuracy: 
+0.4166666666666667
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 13, 'p': 2}
+mean cross-validation accuracy: 
+0.4166666666666667
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 14, 'p': 1}
+mean cross-validation accuracy: 
+0.4166666666666667
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 14, 'p': 2}
+
+Best Score: 
+1.0
+Best parameters set found on development set:
+ {'algorithm': 'kd_tree', 'n_neighbors': 5, 'p': 1}
+ Confusion Matrix 
+[[3 0 0 0]
+ [0 3 0 0]
+ [0 0 3 0]
+ [0 0 0 3]]
+ Classification report 
+                        precision    recall  f1-score   support
+
+           Closed Grip       1.00      1.00      1.00         3
+            Finger Tap       1.00      1.00      1.00         3
+        Hands Hold Out       1.00      1.00      1.00         3
+Resting Hands On Thigh       1.00      1.00      1.00         3
+
+             micro avg       1.00      1.00      1.00        12
+             macro avg       1.00      1.00      1.00        12
+          weighted avg       1.00      1.00      1.00        12
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 5, 'p': 1}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 5, 'p': 2}
+mean cross-validation accuracy: 
+0.875
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 6, 'p': 1}
+mean cross-validation accuracy: 
+0.875
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 6, 'p': 2}
+mean cross-validation accuracy: 
+0.7916666666666666
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 7, 'p': 1}
+mean cross-validation accuracy: 
+0.7916666666666666
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 7, 'p': 2}
+mean cross-validation accuracy: 
+0.5
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 8, 'p': 1}
+mean cross-validation accuracy: 
+0.5
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 8, 'p': 2}
+mean cross-validation accuracy: 
+0.5
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 9, 'p': 1}
+mean cross-validation accuracy: 
+0.5
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 9, 'p': 2}
+mean cross-validation accuracy: 
+0.4166666666666667
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 10, 'p': 1}
+mean cross-validation accuracy: 
+0.4166666666666667
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 10, 'p': 2}
+mean cross-validation accuracy: 
+0.4166666666666667
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 11, 'p': 1}
+mean cross-validation accuracy: 
+0.4166666666666667
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 11, 'p': 2}
+mean cross-validation accuracy: 
+0.4166666666666667
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 12, 'p': 1}
+mean cross-validation accuracy: 
+0.4166666666666667
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 12, 'p': 2}
+mean cross-validation accuracy: 
+0.3541666666666667
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 13, 'p': 1}
+mean cross-validation accuracy: 
+0.3541666666666667
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 13, 'p': 2}
+mean cross-validation accuracy: 
+0.3541666666666667
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 14, 'p': 1}
+mean cross-validation accuracy: 
+0.3541666666666667
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 14, 'p': 2}
+
+Best Score: 
+1.0
+Best parameters set found on development set:
+ {'algorithm': 'kd_tree', 'n_neighbors': 5, 'p': 1}
+ Confusion Matrix 
+[[1 0 0 0 0 0]
+ [0 1 0 0 0 0]
+ [0 0 3 0 0 0]
+ [0 0 0 4 0 0]
+ [0 0 0 0 2 0]
+ [0 0 0 0 0 1]]
+ Classification report 
+                        precision    recall  f1-score   support
+
+           Closed Grip       1.00      1.00      1.00         1
+            Finger Tap       1.00      1.00      1.00         1
+        Finger to Nose       1.00      1.00      1.00         3
+             Hand Flip       1.00      1.00      1.00         4
+        Hands Hold Out       1.00      1.00      1.00         2
+Resting Hands On Thigh       1.00      1.00      1.00         1
+
+             micro avg       1.00      1.00      1.00        12
+             macro avg       1.00      1.00      1.00        12
+          weighted avg       1.00      1.00      1.00        12
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 5, 'p': 1}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 5, 'p': 2}
+mean cross-validation accuracy: 
+0.8333333333333334
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 6, 'p': 1}
+mean cross-validation accuracy: 
+0.8333333333333334
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 6, 'p': 2}
+mean cross-validation accuracy: 
+0.8333333333333334
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 7, 'p': 1}
+mean cross-validation accuracy: 
+0.8333333333333334
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 7, 'p': 2}
+mean cross-validation accuracy: 
+0.7083333333333334
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 8, 'p': 1}
+mean cross-validation accuracy: 
+0.7083333333333334
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 8, 'p': 2}
+mean cross-validation accuracy: 
+0.5416666666666666
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 9, 'p': 1}
+mean cross-validation accuracy: 
+0.5416666666666666
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 9, 'p': 2}
+mean cross-validation accuracy: 
+0.4583333333333333
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 10, 'p': 1}
+mean cross-validation accuracy: 
+0.4583333333333333
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 10, 'p': 2}
+mean cross-validation accuracy: 
+0.4583333333333333
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 11, 'p': 1}
+mean cross-validation accuracy: 
+0.4583333333333333
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 11, 'p': 2}
+mean cross-validation accuracy: 
+0.4583333333333333
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 12, 'p': 1}
+mean cross-validation accuracy: 
+0.4583333333333333
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 12, 'p': 2}
+mean cross-validation accuracy: 
+0.3958333333333333
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 13, 'p': 1}
+mean cross-validation accuracy: 
+0.3958333333333333
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 13, 'p': 2}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 14, 'p': 1}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 14, 'p': 2}
+
+Best Score: 
+1.0
+Best parameters set found on development set:
+ {'algorithm': 'kd_tree', 'n_neighbors': 5, 'p': 1}
+ Confusion Matrix 
+[[3 0 0 0 0]
+ [0 3 0 0 0]
+ [0 0 2 0 0]
+ [0 0 0 1 0]
+ [0 0 0 0 3]]
+ Classification report 
+                        precision    recall  f1-score   support
+
+           Closed Grip       1.00      1.00      1.00         3
+            Finger Tap       1.00      1.00      1.00         3
+        Finger to Nose       1.00      1.00      1.00         2
+             Hand Flip       1.00      1.00      1.00         1
+Resting Hands On Thigh       1.00      1.00      1.00         3
+
+             micro avg       1.00      1.00      1.00        12
+             macro avg       1.00      1.00      1.00        12
+          weighted avg       1.00      1.00      1.00        12
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 3, 'p': 1}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 3, 'p': 2}
+mean cross-validation accuracy: 
+0.5357142857142857
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 5, 'p': 1}
+mean cross-validation accuracy: 
+0.42857142857142855
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 5, 'p': 2}
+mean cross-validation accuracy: 
+0.35714285714285715
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 6, 'p': 1}
+mean cross-validation accuracy: 
+0.35714285714285715
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 6, 'p': 2}
+
+Best Score: 
+1.0
+Best parameters set found on development set:
+ {'algorithm': 'kd_tree', 'n_neighbors': 3, 'p': 1}
+ Confusion Matrix 
+[[2 0 0 0 0]
+ [0 1 0 0 0]
+ [0 0 2 0 0]
+ [0 0 0 2 0]
+ [0 0 0 0 1]]
+ Classification report 
+                        precision    recall  f1-score   support
+
+           Closed Grip       1.00      1.00      1.00         2
+            Finger Tap       1.00      1.00      1.00         1
+             Hand Flip       1.00      1.00      1.00         2
+        Hands Hold Out       1.00      1.00      1.00         2
+Resting Hands On Thigh       1.00      1.00      1.00         1
+
+             micro avg       1.00      1.00      1.00         8
+             macro avg       1.00      1.00      1.00         8
+          weighted avg       1.00      1.00      1.00         8
+mean cross-validation accuracy: 
+0.9285714285714286
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 3, 'p': 1}
+mean cross-validation accuracy: 
+0.9285714285714286
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 3, 'p': 2}
+mean cross-validation accuracy: 
+0.6071428571428571
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 5, 'p': 1}
+mean cross-validation accuracy: 
+0.5
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 5, 'p': 2}
+mean cross-validation accuracy: 
+0.2857142857142857
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 6, 'p': 1}
+mean cross-validation accuracy: 
+0.21428571428571427
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 6, 'p': 2}
+
+Best Score: 
+0.9285714285714286
+Best parameters set found on development set:
+ {'algorithm': 'kd_tree', 'n_neighbors': 3, 'p': 1}
+ Confusion Matrix 
+[[1 0 0 0 0]
+ [0 1 0 0 0]
+ [0 0 4 0 0]
+ [0 0 0 1 0]
+ [0 0 0 0 1]]
+ Classification report 
+                        precision    recall  f1-score   support
+
+            Finger Tap       1.00      1.00      1.00         1
+        Finger to Nose       1.00      1.00      1.00         1
+             Hand Flip       1.00      1.00      1.00         4
+        Hands Hold Out       1.00      1.00      1.00         1
+Resting Hands On Thigh       1.00      1.00      1.00         1
+
+             micro avg       1.00      1.00      1.00         8
+             macro avg       1.00      1.00      1.00         8
+          weighted avg       1.00      1.00      1.00         8
+mean cross-validation accuracy: 
+0.8571428571428571
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 3, 'p': 1}
+mean cross-validation accuracy: 
+0.8571428571428571
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 3, 'p': 2}
+mean cross-validation accuracy: 
+0.7142857142857143
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 5, 'p': 1}
+mean cross-validation accuracy: 
+0.7142857142857143
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 5, 'p': 2}
+mean cross-validation accuracy: 
+0.5
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 6, 'p': 1}
+mean cross-validation accuracy: 
+0.7142857142857143
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 6, 'p': 2}
+
+Best Score: 
+0.8571428571428571
+Best parameters set found on development set:
+ {'algorithm': 'kd_tree', 'n_neighbors': 3, 'p': 1}
+ Confusion Matrix 
+[[4 0 0]
+ [0 3 0]
+ [0 0 1]]
+ Classification report 
+                        precision    recall  f1-score   support
+
+            Finger Tap       1.00      1.00      1.00         4
+        Finger to Nose       1.00      1.00      1.00         3
+Resting Hands On Thigh       1.00      1.00      1.00         1
+
+             micro avg       1.00      1.00      1.00         8
+             macro avg       1.00      1.00      1.00         8
+          weighted avg       1.00      1.00      1.00         8
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 3, 'p': 1}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 3, 'p': 2}
+mean cross-validation accuracy: 
+0.6071428571428571
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 5, 'p': 1}
+mean cross-validation accuracy: 
+0.4642857142857143
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 5, 'p': 2}
+mean cross-validation accuracy: 
+0.39285714285714285
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 6, 'p': 1}
+mean cross-validation accuracy: 
+0.39285714285714285
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 6, 'p': 2}
+
+Best Score: 
+1.0
+Best parameters set found on development set:
+ {'algorithm': 'kd_tree', 'n_neighbors': 3, 'p': 1}
+ Confusion Matrix 
+[[1 0 0 0 0]
+ [0 2 0 0 0]
+ [0 0 1 0 0]
+ [0 0 0 2 0]
+ [0 0 0 0 2]]
+ Classification report 
+                precision    recall  f1-score   support
+
+   Closed Grip       1.00      1.00      1.00         1
+    Finger Tap       1.00      1.00      1.00         2
+Finger to Nose       1.00      1.00      1.00         1
+     Hand Flip       1.00      1.00      1.00         2
+Hands Hold Out       1.00      1.00      1.00         2
+
+     micro avg       1.00      1.00      1.00         8
+     macro avg       1.00      1.00      1.00         8
+  weighted avg       1.00      1.00      1.00         8
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 3, 'p': 1}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 3, 'p': 2}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 5, 'p': 1}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 5, 'p': 2}
+mean cross-validation accuracy: 
+0.9166666666666666
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 6, 'p': 1}
+mean cross-validation accuracy: 
+0.9166666666666666
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 6, 'p': 2}
+
+Best Score: 
+1.0
+Best parameters set found on development set:
+ {'algorithm': 'kd_tree', 'n_neighbors': 3, 'p': 1}
+ Confusion Matrix 
+[[3 0 0 0 0]
+ [0 3 0 0 0]
+ [0 0 1 0 0]
+ [0 0 0 3 0]
+ [0 0 0 0 2]]
+ Classification report 
+                        precision    recall  f1-score   support
+
+           Closed Grip       1.00      1.00      1.00         3
+            Finger Tap       1.00      1.00      1.00         3
+        Finger to Nose       1.00      1.00      1.00         1
+             Hand Flip       1.00      1.00      1.00         3
+Resting Hands On Thigh       1.00      1.00      1.00         2
+
+             micro avg       1.00      1.00      1.00        12
+             macro avg       1.00      1.00      1.00        12
+          weighted avg       1.00      1.00      1.00        12
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 3, 'p': 1}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 3, 'p': 2}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 5, 'p': 1}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 5, 'p': 2}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 6, 'p': 1}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 6, 'p': 2}
+
+Best Score: 
+1.0
+Best parameters set found on development set:
+ {'algorithm': 'kd_tree', 'n_neighbors': 3, 'p': 1}
+ Confusion Matrix 
+[[2 0 0 0 0 0]
+ [0 4 0 0 0 0]
+ [0 0 1 0 0 0]
+ [0 0 0 2 0 0]
+ [0 0 0 0 2 0]
+ [0 0 0 0 0 1]]
+ Classification report 
+                        precision    recall  f1-score   support
+
+           Closed Grip       1.00      1.00      1.00         2
+            Finger Tap       1.00      1.00      1.00         4
+        Finger to Nose       1.00      1.00      1.00         1
+             Hand Flip       1.00      1.00      1.00         2
+        Hands Hold Out       1.00      1.00      1.00         2
+Resting Hands On Thigh       1.00      1.00      1.00         1
+
+             micro avg       1.00      1.00      1.00        12
+             macro avg       1.00      1.00      1.00        12
+          weighted avg       1.00      1.00      1.00        12
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 3, 'p': 1}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 3, 'p': 2}
+mean cross-validation accuracy: 
+0.9375
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 5, 'p': 1}
+mean cross-validation accuracy: 
+0.9375
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 5, 'p': 2}
+mean cross-validation accuracy: 
+0.8958333333333334
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 6, 'p': 1}
+mean cross-validation accuracy: 
+0.8958333333333334
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 6, 'p': 2}
+
+Best Score: 
+1.0
+Best parameters set found on development set:
+ {'algorithm': 'kd_tree', 'n_neighbors': 3, 'p': 1}
+ Confusion Matrix 
+[[2 0 0 0 0]
+ [0 2 0 0 0]
+ [0 0 1 0 0]
+ [0 0 0 2 0]
+ [0 0 0 0 5]]
+ Classification report 
+                        precision    recall  f1-score   support
+
+           Closed Grip       1.00      1.00      1.00         2
+            Finger Tap       1.00      1.00      1.00         2
+             Hand Flip       1.00      1.00      1.00         1
+        Hands Hold Out       1.00      1.00      1.00         2
+Resting Hands On Thigh       1.00      1.00      1.00         5
+
+             micro avg       1.00      1.00      1.00        12
+             macro avg       1.00      1.00      1.00        12
+          weighted avg       1.00      1.00      1.00        12
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 3, 'p': 1}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 3, 'p': 2}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 5, 'p': 1}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 5, 'p': 2}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 6, 'p': 1}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 6, 'p': 2}
+
+Best Score: 
+1.0
+Best parameters set found on development set:
+ {'algorithm': 'kd_tree', 'n_neighbors': 3, 'p': 1}
+ Confusion Matrix 
+[[2 0 0 0 0 0]
+ [0 1 0 0 0 0]
+ [0 0 3 0 0 0]
+ [0 0 0 2 0 0]
+ [0 0 0 0 2 0]
+ [0 0 0 0 0 2]]
+ Classification report 
+                        precision    recall  f1-score   support
+
+           Closed Grip       1.00      1.00      1.00         2
+            Finger Tap       1.00      1.00      1.00         1
+        Finger to Nose       1.00      1.00      1.00         3
+             Hand Flip       1.00      1.00      1.00         2
+        Hands Hold Out       1.00      1.00      1.00         2
+Resting Hands On Thigh       1.00      1.00      1.00         2
+
+             micro avg       1.00      1.00      1.00        12
+             macro avg       1.00      1.00      1.00        12
+          weighted avg       1.00      1.00      1.00        12
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 3, 'p': 1}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 3, 'p': 2}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 5, 'p': 1}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 5, 'p': 2}
+mean cross-validation accuracy: 
+0.9166666666666666
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 6, 'p': 1}
+mean cross-validation accuracy: 
+0.9166666666666666
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 6, 'p': 2}
+
+Best Score: 
+1.0
+Best parameters set found on development set:
+ {'algorithm': 'kd_tree', 'n_neighbors': 3, 'p': 1}
+ Confusion Matrix 
+[[2 0 0 0 0]
+ [0 3 0 0 0]
+ [0 0 3 0 0]
+ [0 0 0 1 0]
+ [0 0 0 0 3]]
+ Classification report 
+                        precision    recall  f1-score   support
+
+           Closed Grip       1.00      1.00      1.00         2
+            Finger Tap       1.00      1.00      1.00         3
+        Finger to Nose       1.00      1.00      1.00         3
+        Hands Hold Out       1.00      1.00      1.00         1
+Resting Hands On Thigh       1.00      1.00      1.00         3
+
+             micro avg       1.00      1.00      1.00        12
+             macro avg       1.00      1.00      1.00        12
+          weighted avg       1.00      1.00      1.00        12
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 3, 'p': 1}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 3, 'p': 2}
+mean cross-validation accuracy: 
+0.9166666666666666
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 5, 'p': 1}
+mean cross-validation accuracy: 
+0.9166666666666666
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 5, 'p': 2}
+mean cross-validation accuracy: 
+0.8333333333333334
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 6, 'p': 1}
+mean cross-validation accuracy: 
+0.8333333333333334
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 6, 'p': 2}
+
+Best Score: 
+1.0
+Best parameters set found on development set:
+ {'algorithm': 'kd_tree', 'n_neighbors': 3, 'p': 1}
+ Confusion Matrix 
+[[2 0 0 0]
+ [0 1 0 0]
+ [0 0 6 0]
+ [0 0 0 3]]
+ Classification report 
+                precision    recall  f1-score   support
+
+   Closed Grip       1.00      1.00      1.00         2
+    Finger Tap       1.00      1.00      1.00         1
+Finger to Nose       1.00      1.00      1.00         6
+     Hand Flip       1.00      1.00      1.00         3
+
+     micro avg       1.00      1.00      1.00        12
+     macro avg       1.00      1.00      1.00        12
+  weighted avg       1.00      1.00      1.00        12
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 3, 'p': 1}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 3, 'p': 2}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 5, 'p': 1}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 5, 'p': 2}
+mean cross-validation accuracy: 
+0.7916666666666666
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 6, 'p': 1}
+mean cross-validation accuracy: 
+0.7916666666666666
+ Hyper Parameters 
+{'algorithm': 'kd_tree', 'n_neighbors': 6, 'p': 2}
+
+Best Score: 
+1.0
+Best parameters set found on development set:
+ {'algorithm': 'kd_tree', 'n_neighbors': 3, 'p': 1}
+ Confusion Matrix 
+[[1 0 0 0 0]
+ [0 2 0 0 0]
+ [0 0 4 0 0]
+ [0 0 0 2 0]
+ [0 0 0 0 3]]
+ Classification report 
+                        precision    recall  f1-score   support
+
+            Finger Tap       1.00      1.00      1.00         1
+        Finger to Nose       1.00      1.00      1.00         2
+             Hand Flip       1.00      1.00      1.00         4
+        Hands Hold Out       1.00      1.00      1.00         2
+Resting Hands On Thigh       1.00      1.00      1.00         3
+
+             micro avg       1.00      1.00      1.00        12
+             macro avg       1.00      1.00      1.00        12
+          weighted avg       1.00      1.00      1.00        12

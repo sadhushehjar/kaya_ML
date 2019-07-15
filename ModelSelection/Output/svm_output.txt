@@ -1,0 +1,2488 @@
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.0001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+0.4583333333333333
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.0001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 1, 'gamma': 1e-05, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+0.4583333333333333
+ Hyper Parameters 
+{'C': 1, 'gamma': 1e-05, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+0.4583333333333333
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+0.4583333333333333
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+0.4583333333333333
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+0.4583333333333333
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+0.4583333333333333
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.2, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+0.4583333333333333
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.2, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.5416666666666666
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.5, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+0.4583333333333333
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.5, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.0001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+0.75
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.0001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 10, 'gamma': 1e-05, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+0.75
+ Hyper Parameters 
+{'C': 10, 'gamma': 1e-05, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+0.75
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+0.75
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.6041666666666666
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+0.75
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+0.75
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.6041666666666666
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+0.75
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.6875
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.2, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+0.75
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.2, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.75
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.5, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+0.75
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.5, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.0001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.0001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 100, 'gamma': 1e-05, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 1e-05, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.6875
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.6875
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.2, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.2, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.5, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.5, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.0001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.0001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 1000, 'gamma': 1e-05, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 1e-05, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.6875
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.2, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.2, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.5, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.5, 'kernel': 'linear'}
+
+Best Score: 
+1.0
+Best parameters set found on development set:
+ {'C': 100, 'gamma': 0.0001, 'kernel': 'linear'}
+ Confusion Matrix 
+[[3 0 0 0 0]
+ [0 3 0 0 0]
+ [0 0 2 0 0]
+ [0 0 0 1 0]
+ [0 0 0 0 3]]
+ Classification report 
+                        precision    recall  f1-score   support
+
+           Closed Grip       1.00      1.00      1.00         3
+            Finger Tap       1.00      1.00      1.00         3
+        Finger to Nose       1.00      1.00      1.00         2
+             Hand Flip       1.00      1.00      1.00         1
+Resting Hands On Thigh       1.00      1.00      1.00         3
+
+             micro avg       1.00      1.00      1.00        12
+             macro avg       1.00      1.00      1.00        12
+          weighted avg       1.00      1.00      1.00        12
+mean cross-validation accuracy: 
+0.35714285714285715
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.0001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+0.9285714285714286
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.0001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.35714285714285715
+ Hyper Parameters 
+{'C': 1, 'gamma': 1e-05, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+0.9285714285714286
+ Hyper Parameters 
+{'C': 1, 'gamma': 1e-05, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.35714285714285715
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+0.9285714285714286
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.35714285714285715
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+0.9285714285714286
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.4642857142857143
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+0.9285714285714286
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.35714285714285715
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+0.9285714285714286
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.4642857142857143
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+0.9285714285714286
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.7142857142857143
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.2, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+0.9285714285714286
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.2, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.8571428571428571
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.5, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+0.9285714285714286
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.5, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.35714285714285715
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.0001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.0001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.35714285714285715
+ Hyper Parameters 
+{'C': 10, 'gamma': 1e-05, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 1e-05, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.35714285714285715
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.4642857142857143
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.4642857142857143
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.2, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.2, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.5, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.5, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.35714285714285715
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.0001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.0001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.35714285714285715
+ Hyper Parameters 
+{'C': 100, 'gamma': 1e-05, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 1e-05, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.5714285714285714
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.2, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.2, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.5, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.5, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.5714285714285714
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.0001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.0001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.35714285714285715
+ Hyper Parameters 
+{'C': 1000, 'gamma': 1e-05, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 1e-05, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.2, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.2, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.5, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.5, 'kernel': 'linear'}
+
+Best Score: 
+1.0
+Best parameters set found on development set:
+ {'C': 10, 'gamma': 0.0001, 'kernel': 'linear'}
+ Confusion Matrix 
+[[1 0 0 0 0]
+ [0 2 0 0 0]
+ [0 0 1 0 0]
+ [0 0 0 2 0]
+ [0 0 0 0 2]]
+ Classification report 
+                precision    recall  f1-score   support
+
+   Closed Grip       1.00      1.00      1.00         1
+    Finger Tap       1.00      1.00      1.00         2
+Finger to Nose       1.00      1.00      1.00         1
+     Hand Flip       1.00      1.00      1.00         2
+Hands Hold Out       1.00      1.00      1.00         2
+
+     micro avg       1.00      1.00      1.00         8
+     macro avg       1.00      1.00      1.00         8
+  weighted avg       1.00      1.00      1.00         8
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.0001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.0001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 1, 'gamma': 1e-05, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1, 'gamma': 1e-05, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.6875
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.2, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.2, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.5, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.5, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.0001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.0001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 10, 'gamma': 1e-05, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 1e-05, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.4166666666666667
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.4166666666666667
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.2, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.2, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.5, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.5, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.0001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.0001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 100, 'gamma': 1e-05, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 1e-05, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.4166666666666667
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.2, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.2, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.5, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.5, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.4166666666666667
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.0001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.0001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 1000, 'gamma': 1e-05, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 1e-05, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.2, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.2, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.5, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.5, 'kernel': 'linear'}
+
+Best Score: 
+1.0
+Best parameters set found on development set:
+ {'C': 1, 'gamma': 0.0001, 'kernel': 'linear'}
+ Confusion Matrix 
+[[3 0 0 0 0]
+ [0 3 0 0 0]
+ [0 0 1 0 0]
+ [0 0 0 3 0]
+ [0 0 0 0 2]]
+ Classification report 
+                        precision    recall  f1-score   support
+
+           Closed Grip       1.00      1.00      1.00         3
+            Finger Tap       1.00      1.00      1.00         3
+        Finger to Nose       1.00      1.00      1.00         1
+             Hand Flip       1.00      1.00      1.00         3
+Resting Hands On Thigh       1.00      1.00      1.00         2
+
+             micro avg       1.00      1.00      1.00        12
+             macro avg       1.00      1.00      1.00        12
+          weighted avg       1.00      1.00      1.00        12
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.0001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+0.9375
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.0001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 1, 'gamma': 1e-05, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+0.9375
+ Hyper Parameters 
+{'C': 1, 'gamma': 1e-05, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+0.9375
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+0.9375
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+0.9375
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+0.9375
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+0.9375
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.8958333333333334
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.2, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+0.9375
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.2, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.9375
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.5, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+0.9375
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.5, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.0001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.0001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 10, 'gamma': 1e-05, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 1e-05, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.5625
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.5625
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.2, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.2, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.5, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.5, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.0001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.0001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 100, 'gamma': 1e-05, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 1e-05, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.5625
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.2, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.2, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.5, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.5, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.5625
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.0001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.0001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 1000, 'gamma': 1e-05, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 1e-05, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.2, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.2, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.5, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.5, 'kernel': 'linear'}
+
+Best Score: 
+1.0
+Best parameters set found on development set:
+ {'C': 10, 'gamma': 0.0001, 'kernel': 'linear'}
+ Confusion Matrix 
+[[2 0 0 0 0]
+ [0 2 0 0 0]
+ [0 0 1 0 0]
+ [0 0 0 2 0]
+ [0 0 0 0 5]]
+ Classification report 
+                        precision    recall  f1-score   support
+
+           Closed Grip       1.00      1.00      1.00         2
+            Finger Tap       1.00      1.00      1.00         2
+             Hand Flip       1.00      1.00      1.00         1
+        Hands Hold Out       1.00      1.00      1.00         2
+Resting Hands On Thigh       1.00      1.00      1.00         5
+
+             micro avg       1.00      1.00      1.00        12
+             macro avg       1.00      1.00      1.00        12
+          weighted avg       1.00      1.00      1.00        12
+mean cross-validation accuracy: 
+0.5208333333333334
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.0001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.0001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.5208333333333334
+ Hyper Parameters 
+{'C': 1, 'gamma': 1e-05, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1, 'gamma': 1e-05, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.5208333333333334
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.5208333333333334
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.6041666666666666
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.5208333333333334
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.6041666666666666
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.8333333333333334
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.2, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.2, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.5, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.5, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.5208333333333334
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.0001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.0001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.5208333333333334
+ Hyper Parameters 
+{'C': 10, 'gamma': 1e-05, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 1e-05, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.5208333333333334
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.6041666666666666
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.6041666666666666
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.2, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.2, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.5, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.5, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.5208333333333334
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.0001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.0001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.5208333333333334
+ Hyper Parameters 
+{'C': 100, 'gamma': 1e-05, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 1e-05, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.6041666666666666
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.2, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.2, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.5, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.5, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.6041666666666666
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.0001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.0001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.5208333333333334
+ Hyper Parameters 
+{'C': 1000, 'gamma': 1e-05, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 1e-05, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.2, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.2, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.5, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.5, 'kernel': 'linear'}
+
+Best Score: 
+1.0
+Best parameters set found on development set:
+ {'C': 1, 'gamma': 0.0001, 'kernel': 'linear'}
+ Confusion Matrix 
+[[2 0 0 0 0 0]
+ [0 1 0 0 0 0]
+ [0 0 3 0 0 0]
+ [0 0 0 2 0 0]
+ [0 0 0 0 2 0]
+ [0 0 0 0 0 2]]
+ Classification report 
+                        precision    recall  f1-score   support
+
+           Closed Grip       1.00      1.00      1.00         2
+            Finger Tap       1.00      1.00      1.00         1
+        Finger to Nose       1.00      1.00      1.00         3
+             Hand Flip       1.00      1.00      1.00         2
+        Hands Hold Out       1.00      1.00      1.00         2
+Resting Hands On Thigh       1.00      1.00      1.00         2
+
+             micro avg       1.00      1.00      1.00        12
+             macro avg       1.00      1.00      1.00        12
+          weighted avg       1.00      1.00      1.00        12
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.0001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.0001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 1, 'gamma': 1e-05, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1, 'gamma': 1e-05, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.5625
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.5625
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.625
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.2, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.2, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.5, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.5, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.0001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.0001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 10, 'gamma': 1e-05, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 1e-05, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.5625
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.5625
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.2, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.2, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.5, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.5, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.0001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.0001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 100, 'gamma': 1e-05, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 1e-05, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.5625
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.2, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.2, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.5, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.5, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.5625
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.0001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.0001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 1000, 'gamma': 1e-05, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 1e-05, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.2, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.2, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.5, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.5, 'kernel': 'linear'}
+
+Best Score: 
+1.0
+Best parameters set found on development set:
+ {'C': 1, 'gamma': 0.0001, 'kernel': 'linear'}
+ Confusion Matrix 
+[[2 0 0 0 0]
+ [0 3 0 0 0]
+ [0 0 3 0 0]
+ [0 0 0 1 0]
+ [0 0 0 0 3]]
+ Classification report 
+                        precision    recall  f1-score   support
+
+           Closed Grip       1.00      1.00      1.00         2
+            Finger Tap       1.00      1.00      1.00         3
+        Finger to Nose       1.00      1.00      1.00         3
+        Hands Hold Out       1.00      1.00      1.00         1
+Resting Hands On Thigh       1.00      1.00      1.00         3
+
+             micro avg       1.00      1.00      1.00        12
+             macro avg       1.00      1.00      1.00        12
+          weighted avg       1.00      1.00      1.00        12
+mean cross-validation accuracy: 
+0.5
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.0001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.0001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.5
+ Hyper Parameters 
+{'C': 1, 'gamma': 1e-05, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1, 'gamma': 1e-05, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.5
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.5
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.5833333333333334
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.5
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.5833333333333334
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.8125
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.2, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.2, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.5, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.5, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.5
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.0001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.0001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.5
+ Hyper Parameters 
+{'C': 10, 'gamma': 1e-05, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 1e-05, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.5
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.5833333333333334
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.5833333333333334
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.2, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.2, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.5, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.5, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.5
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.0001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.0001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.5
+ Hyper Parameters 
+{'C': 100, 'gamma': 1e-05, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 1e-05, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.5833333333333334
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.2, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.2, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.5, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.5, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.5833333333333334
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.0001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.0001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.5
+ Hyper Parameters 
+{'C': 1000, 'gamma': 1e-05, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 1e-05, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.2, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.2, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.5, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.5, 'kernel': 'linear'}
+
+Best Score: 
+1.0
+Best parameters set found on development set:
+ {'C': 1, 'gamma': 0.0001, 'kernel': 'linear'}
+ Confusion Matrix 
+[[2 0 0 0]
+ [0 1 0 0]
+ [0 0 6 0]
+ [0 0 0 3]]
+ Classification report 
+                precision    recall  f1-score   support
+
+   Closed Grip       1.00      1.00      1.00         2
+    Finger Tap       1.00      1.00      1.00         1
+Finger to Nose       1.00      1.00      1.00         6
+     Hand Flip       1.00      1.00      1.00         3
+
+     micro avg       1.00      1.00      1.00        12
+     macro avg       1.00      1.00      1.00        12
+  weighted avg       1.00      1.00      1.00        12
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.0001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.0001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 1, 'gamma': 1e-05, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1, 'gamma': 1e-05, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.4375
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.4375
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.8333333333333334
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.2, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.2, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.5, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1, 'gamma': 0.5, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.0001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.0001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 10, 'gamma': 1e-05, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 1e-05, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.5208333333333334
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.5208333333333334
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.2, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.2, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.5, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 10, 'gamma': 0.5, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.0001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.0001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 100, 'gamma': 1e-05, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 1e-05, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.5208333333333334
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.2, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.2, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.5, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 100, 'gamma': 0.5, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.5208333333333334
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.0001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.0001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+0.2916666666666667
+ Hyper Parameters 
+{'C': 1000, 'gamma': 1e-05, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 1e-05, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.001, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.001, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.01, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.01, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.1, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.1, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.2, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.2, 'kernel': 'linear'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.5, 'kernel': 'rbf'}
+mean cross-validation accuracy: 
+1.0
+ Hyper Parameters 
+{'C': 1000, 'gamma': 0.5, 'kernel': 'linear'}
+
+Best Score: 
+1.0
+Best parameters set found on development set:
+ {'C': 1, 'gamma': 0.0001, 'kernel': 'linear'}
+ Confusion Matrix 
+[[1 0 0 0 0]
+ [0 2 0 0 0]
+ [0 0 4 0 0]
+ [0 0 0 2 0]
+ [0 0 0 0 3]]
+ Classification report 
+                        precision    recall  f1-score   support
+
+            Finger Tap       1.00      1.00      1.00         1
+        Finger to Nose       1.00      1.00      1.00         2
+             Hand Flip       1.00      1.00      1.00         4
+        Hands Hold Out       1.00      1.00      1.00         2
+Resting Hands On Thigh       1.00      1.00      1.00         3
+
+             micro avg       1.00      1.00      1.00        12
+             macro avg       1.00      1.00      1.00        12
+          weighted avg       1.00      1.00      1.00        12
